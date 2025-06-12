@@ -1,5 +1,6 @@
 # 🚨75% Attendance calculator:
 <hr>
+
 ## Idea:
 This is the basic calculator of Attendance,As i am Learning Full Stack Development to maintain my consistency and to apply my knowledge in real life,I created this repo.<br>
 <br>
