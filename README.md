@@ -9,5 +9,8 @@ I have just Started with Attendance calculation if I get any idea while making t
 <hr>
 
 ## 👀Process:
-**DAY 1**<br>
-**5:00 PM** :It's 12th june, I have created this repo and started making things till night what's the possible things i can make i'll update it night.
+**DAY 1**<br><br>
+**5:00 PM** :It's 12th june, I have created this repo and started making things till night what's the possible things i can make i'll update it night.<br><br>
+**🕦11:30PM**:I have Pushed the files i have made today i just created the basic things omn the page headings and subheadings......
+<br><br>
+**DAY 2**<br><br>
