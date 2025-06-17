@@ -1,7 +1,3 @@
-
-ul{
-    display: inline;
-}
 #sub-title{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
@@ -11,18 +7,25 @@ div #attended-h{
    text-align: center;
    margin:1px;
 }
-#attedend{
-    display: block;
-    left: auto;
-    border-radius: 30px;
+ div #attended{
+    border: 2px solid rgb(66, 212, 154);
+    margin-left: 45px;
 }
-div #total{
+div #total-h{
    text-align: center;
    margin:1px;
 }
-#required{
-    text-align: center;
+div #total{
+    border: 2px solid rgb(66, 212, 154);
+    margin-left: 45px;
+}
+div #required-h{
+   text-align: center;
    margin:1px;
+}
+div #required{
+    border: 2px solid rgb(66, 212, 154);
+    margin-left: 85px;
 }
 main{
     width: 250px;
@@ -42,7 +45,6 @@ main:hover{
     width:260px;
     height:360px;
    box-shadow: 10px 10px 10px green;
-
 }
 #calc{
     width:120px;
@@ -74,3 +76,25 @@ main:hover{
     height:42px;
     box-shadow: 5px 5px 5px pink;
 }
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: end;
+}
+#navigation{
+   display: inline; 
+    text-decoration: none;
+    color: black;
+    flex-direction: column;
+}
+#main-title{
+    display: inline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+ }
+ .navigation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+ }
