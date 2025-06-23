@@ -14,20 +14,25 @@ header{
 #main-title{
     display: inline;
     font-family: Georgia, 'Times New Roman', Times, serif;
-   margin-left: 20px;
+   margin-left: 10px;
+   position: absolute;
+   margin-bottom: 10px;
+   margin-top: 10px;
  }
  .navigation{
     display: flex;
-    margin-left: 420px;
+    margin-left: 750px;
     flex-direction: row;
     justify-content: end;
     align-items: center;
+    justify-content: space-around;
 }
  #navigation {
     text-decoration: none;
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     justify-items:end;
+   padding: 10px;
 }
 main{
     width: 350px;
