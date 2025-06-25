@@ -1,16 +1,102 @@
-# 🚨75% Attendance calculator:
-<hr>
+# 📊 75% Attendance Calculator
 
-## 💡Idea:
-This is the basic calculator of Attendance,As i am Learning Full Stack Development to maintain my consistency and to apply my knowledge in real life,I created this repo.<br>
-<br>
-As the Day of creating repo I know complete HTML and little bit of CSS.I will update what I learn and what changes I have made in that.<br><br>
-I have just Started with Attendance calculation if I get any idea while making this i will implement those in the upcoming days....😀
-<hr>
+A simple yet essential tool for every student trying to maintain the golden rule of 75% attendance. Whether you're planning to chill at home 🏠 or figuring out how many classes to grind through 🎓, this calculator has your back.
 
-## 👀Process:
-**DAY 1**<br><br>
-**5:00 PM** :It's 12th june, I have created this repo and started making things till night what's the possible things i can make i'll update it night.<br><br>
-**🕦11:30PM**:I have Pushed the files i have made today i just created the basic things omn the page headings and subheadings......
-<br><br>
-**DAY 2**<br><br>
+---
+
+## 🔍 Overview
+
+This project allows students to:
+
+- ✅ Check how many classes they can **bunk** and still maintain 75% attendance
+- 📈 Know how many more classes they need to **attend** if they’re below 75%
+- ⚡ See real-time results with a clean and minimal UI
+
+---
+
+## 🛠 Built With
+
+- 🌐 HTML
+- 🎨 CSS
+- 🧠 JavaScript
+
+---
+
+## 🚀 Live Demo
+
+[Check it out live here](https://your-live-link.vercel.app/)  
+*(Replace this with your deployed URL)*
+
+---
+
+## 💡 How It Works
+
+Enter:
+- Total number of classes held
+- Number of classes you have attended
+
+The calculator will instantly tell you:
+- If your attendance is **above 75%**, how many more classes you can **miss**
+- If your attendance is **below 75%**, how many classes you must **attend**
+
+---
+
+## 🖼 Screenshot
+
+![App Screenshot](./screenshot.png)  
+*(Add a screenshot to showcase your UI)*
+
+---
+
+## 📂 Project Structure
+
+attendance-calculator/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+
+---
+
+## 🧪 Example
+
+> Total classes: 60  
+> Attended: 48  
+> ➤ Result: "✅ You can bunk 4 more classes and still maintain 75%."
+
+> Total classes: 40  
+> Attended: 26  
+> ➤ Result: "📚 You must attend 14 more classes to reach 75%."
+
+---
+
+## 🧠 What I Learned
+
+- Real-world JavaScript logic implementation
+- Responsive UI building using plain CSS
+- DOM manipulation and validation techniques
+
+---
+
+## 📌 Future Enhancements
+
+- 🎯 Add charts or visuals to show progress
+- 🎤 Voice input for accessibility
+- 📱 Mobile PWA support
+
+---
+
+## 🙌 Contribution
+
+Feel free to fork the repo, raise issues, and submit pull requests.
+
+---
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+> “Bunk wisely. Attend responsibly.” 😄
